@@ -21,6 +21,7 @@
 ![HTML5](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Nexj.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
@@ -33,6 +34,9 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
 ![Postgresql](https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
+![Apache Maven](https://img.shields.io/badge/apache%20maven-0D1117?style=for-the-badge&logo=apachemaven&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=Mysql&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
+![Gradle](https://img.shields.io/badge/gradle-0D1117?style=for-the-badge&logo=gradle&logoColor=#0ea5e9&labelColor=0D1117)
 <br/>
 
 <h3 align="center">Thanks for your visit! 😀</h3>
