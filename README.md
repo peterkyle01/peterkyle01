@@ -27,12 +27,14 @@
 ![Nexj.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=0D1117)&nbsp;
 ![Node](https://img.shields.io/badge/Node-0D1117?style=for-the-badge&logo=node.js&logoColor=43853D&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor)&nbsp;
 ![Springboot](https://img.shields.io/badge/Springboot-0D1117?style=for-the-badge&logo=springboot&logoColor=43853D&labelColor=0D1117)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-0D1117?style=for-the-badge&logo=spring&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-0D1117?style=for-the-badge&logo=apachekafka&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&labelColor)&nbsp;
 ![Postgresql](https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/apache%20maven-0D1117?style=for-the-badge&logo=apachemaven&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-0D1117?style=for-the-badge&logo=Mysql&logoColor=#0ea5e9&labelColor=0D1117)&nbsp;
