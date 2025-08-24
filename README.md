@@ -27,6 +27,7 @@
 #### 🧠 Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)
+![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)
 
 #### ⚙️ Fullstack / Web
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)
