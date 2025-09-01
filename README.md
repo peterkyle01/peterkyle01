@@ -48,9 +48,8 @@
 ![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&labelColor=0D1117)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117)
-![Solana](https://img.shields.io/badge/Solana-0D1117?style=for-the-badge&logo=solana&labelColor=0D1117)
-![Anchor](https://img.shields.io/badge/Anchor-0D1117?style=for-the-badge&logo=data&labelColor=0D1117)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon&labelColor=0D1117)
+![Axum](https://img.shields.io/badge/Axum-0D1117?style=for-the-badge&logo=axum&labelColor=0D1117)
 
 
 ---
@@ -59,7 +58,7 @@
 - Scaling TypeScript fullstack projects (tRPC + Next.js + Drizzle)
 - Building clean, production-ready apps
 - Improving architecture, performance, and testing
-- Actively exploring Solana dApp development (Solana + Anchor + Wallet Adapter)
+- Actively exploring CLI and AI automation
 - Contributing to open source projects in the TypeScript ecosystem
 
 
