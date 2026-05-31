@@ -59,9 +59,9 @@
 ### 🔥 Open Source Developer Tools
 
 #### 🦀 [create-neon-api](https://github.com/peterkyle01/create-neon-api)
-Rust CLI that scaffolds production-ready APIs with Neon PostgreSQL, JWT auth, and sqlx migrations in under 30 seconds.  
-⚡ **DevEx Impact:** Abstract away complex integration decisions — move from idea to deployed endpoint in one sitting.  
-📦 `cargo install create-neon-api` · **908+ downloads** on [crates.io](https://crates.io/crates/create-neon-api)
+Scaffold a Rust API backend wired into the **Neon Data API + Neon Auth** ecosystem in seconds — template embedded in the binary, no network needed. Uses **Axum**, generic CRUD via the **NeonClient**, and JWT sessions via Neon's built-in auth service. No ORM, no connection pool, no Docker.  
+⚡ **DevEx Impact:** Eliminate boilerplate for auth, routing, error handling, and Neon integration — go from idea to deployed API in one sitting.  
+📦 `cargo install create-neon-api` · **970+ downloads** on [crates.io](https://crates.io/crates/create-neon-api)
 
 #### 🚀 [create-rust-on-vercel](https://github.com/peterkyle01/create-rust-on-vercel)
 One-command CLI that scaffolds Next.js + serverless Rust API projects configured for zero-friction Vercel deployment.  
