@@ -68,6 +68,11 @@ One-command CLI that scaffolds Next.js + serverless Rust API projects configured
 ⚡ **DevEx Impact:** Lowers the barrier for JS/TS teams to adopt Rust incrementally without deep systems expertise.  
 📦 `npx create-rust-on-vercel` · **451+ weekly downloads** on [npm](https://www.npmjs.com/package/create-rust-on-vercel)
 
+#### 📦 [storage-supabase](https://github.com/peterkyle01/storage-supabase)
+Supabase Storage adapter for **Payload CMS 3.0+**. Lightweight — uses native `fetch` instead of the AWS SDK — with support for direct CDN redirects and image transformations.  
+⚡ **DevEx Impact:** Plug-and-play media uploads for Payload CMS with zero configuration overhead.  
+📦 `npm install storage-supabase` · **30 weekly downloads** on [npm](https://www.npmjs.com/package/storage-supabase)
+
 ---
 
 ### 🧠 Currently Focused On
