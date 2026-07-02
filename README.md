@@ -1,19 +1,104 @@
-PGltZyB3aWR0aD0xMDAlIHNyYz0iaHR0cHM6Ly9jYXBzdWxlLXJlbmRlci52ZXJjZWwuYXBwL2FwaT90eXBlPXdhdmluZyZjb2xvcj0wMmFlZmYmaGVpZ2h0PTEyMCZzZWN0aW9uPWhlYWRlciIvPgoKWyFbVHlwaW5nIFNWR10oaHR0cHM6Ly9yZWFkbWUtdHlwaW5nLXN2Zy5oZXJva3VhcHAuY29tLz9jb2xvcj0wMDgwRDEmc2l6ZT0zNSZjZW50ZXI9dHJ1ZSZ2Q2VudGVyPXRydWUmd2lkdGg9MTAwMCZsaW5lcz1IaSErSSdtK1BldGVya3lsZSvwn5GLO0RldmVsb3BlcitFeHBlcmllbmNlK0VuZ2luZWVyK/Cfkrs7UnVzdCtUb29saW5nKyUyNitUeXBlU2NyaXB0K1NES3Mr8J+mgDtCdWlsZGluZytmb3IrZGV2ZWxvcGVycyvwn5qAKV0oaHR0cHM6Ly9naXQuaW8vdHlwaW5nLXN2ZykKCjxici8+Cgo8ZGl2IGFsaWduPSJjZW50ZXIiPgogIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9wZXRlcmt5bGUwMSI+CiAgICA8aW1nIGhlaWdodD0iMTgwZW0iIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLXNpZ21hLWZpdmUudmVyY2VsLmFwcC9hcGk/dXNlcm5hbWU9cGV0ZXJreWxlMDEmc2hvd19pY29ucz10cnVlJmluY2x1ZGVfYWxsX2NvbW1pdHM9dHJ1ZSZjb3VudF9wcml2YXRlPXRydWUmaGlkZV9ib3JkZXI9dHJ1ZSZ0aXRsZV9jb2xvcj0wMmFlZmYmaWNvbl9jb2xvcj0wMmFlZmYmdGV4dF9jb2xvcj1jOWQxZDkmYmdfY29sb3I9MGQxMTE3IiBhbHQ9InBldGVya3lsZSBnaXRodWIgc3RhdHMiIC8+CiAgPC9hPgogIDxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS9wZXRlcmt5bGUwMSI+CiAgICA8aW1nIGhlaWdodD0iMTgwZW0iIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLXNpZ21hLWZpdmUudmVyY2VsLmFwcC9hcGkvdG9wLWxhbmdzLz91c2VybmFtZT1wZXRlcmt5bGUwMSZsYXlvdXQ9Y29tcGFjdCZsYW5nc19jb3VudD03JmhpZGVfYm9yZGVyPXRydWUmdGl0bGVfY29sb3I9MDJhZWZmJnRleHRfY29sb3I9YzlkMWQ5JmJnX2NvbG9yPTBkMTExNyIvPgogIDwvYT4KPC9kaXY+Cgo8YnIvPgoKPGRpdiBhbGlnbj0iY2VudGVyIj4KICA8YSBocmVmPSJtYWlsdG86a3lsZXBldGVya29pbmU0QGdtYWlsLmNvbSI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvR21haWwtRDE0ODM2P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1nbWFpbCZsYWJlbENvbG9yPTBEMTExNyI+PC9hPgogIDxhIGhyZWY9Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9wZXRlcm13YW5naTAxLyI+PGltZyBzcmM9Imh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLUxpbmtlZEluLSUyMzAwNzdCNT9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bGlua2VkaW4mbG9nb0NvbG9yPXdoaXRlIj48L2E+CiAgPGEgaHJlZj0iaHR0cHM6Ly93d3cucGV0ZXJreWxlMDEubWUiPjxpbWcgc3JjPSJodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1Qb3J0Zm9saW8tMEQxMTE3P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz12ZXJjZWwmbGFiZWxDb2xvcj0wRDExMTcmbG9nb0NvbG9yPXdoaXRlIj48L2E+CjwvZGl2PgoKLS0tCgojIyMg8J+agCBEZXZFeC1Gb2N1c2VkIFRlY2ggU3RhY2sKCiMjIyMg8J+mgCBTeXN0ZW1zICYgQ29yZSBMYW5ndWFnZXMKIVtSdXN0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1SdXN0LTBEMTExNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cnVzdCZsYWJlbENvbG9yPTBEMTExNykKIVtUeXBlU2NyaXB0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1UeXBlU2NyaXB0LTBEMTExNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dHlwZXNjcmlwdCZsYWJlbENvbG9yPTBEMTExNykKCiMjIyMg8J+bIO+4jyBEZXZlbG9wZXIgVG9vbGluZyAmIFNESyBEZXNpZ24KIVtDTEldKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLUNMSV9Ub29scy0wRDExMTc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPWdudWJhc2gmbGFiZWxDb2xvcj0wRDExMTcpCiFbQ2FyZ29dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLUNhcmdvLTBEMTExNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cnVzdCZsYWJlbENvbG9yPTBEMTExNykKIVtBeHVtXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1BeHVtLTBEMTExNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cnVzdCZsYWJlbENvbG9yPTBEMTExNykKIVtOb2RlLmpzXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1Ob2RlLmpzLTBEMTExNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289bm9kZS5qcyZsYWJlbENvbG9yPTBEMTExNykKCiMjIyMg4pqZ77iPIFdlYiAmIEZ1bGxzdGFjawpbTmV4dC5qc10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tTmV4dC5qcy0wRDExMTc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPW5leHQuanMmbGFiZWxDb2xvcj0wRDExMTcpCiFbUmVhY3RdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLVJlYWN0LTBEMTExNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289cmVhY3QmbGFiZWxDb2xvcj0wRDExMTcpCiFbdFJQQ10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS90UlBDLTBEMTExNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dHJwYyZsYWJlbENvbG9yPTBEMTExNykKIVtUYWlsd2luZCBDU1NdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvVGFpbHdpbmRfQ1NTLTBEMTExNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289dGFpbHdpbmQtY3NzJmxvZ29Db2xvcj0zOEIyQUMmbGFiZWxDb2xvcj0wRDExMTcpCiFbVmVyY2VsXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1WZXJjZWwtMEQxMTE3P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz12ZXJjZWwmbGFiZWxDb2xvcj0wRDExMTcpCgojIyMjIPCfl4TvuI8gRGF0YWJhc2VzICYgSW5mcmFzdHJ1Y3R1cmUKIVtQb3N0Z3JlU1FMXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlL1Bvc3RncmVzcWwtMEQxMTE3P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1wb3N0Z3Jlc3FsJmxhYmVsQ29sb3I9MEQxMTE3KQohW01vbmdvREJdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTW9uZ29EQi0wRDExMTc/c3R5bGU9Zm9yLXRoZS1iYWRnZSZsb2dvPW1vbmdvZGImbGFiZWxDb2xvcj0wRDExMTcpCiFbUmVkaXNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUmVkaXMtMEQxMTE3P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1yZWRpcyZsYWJlbENvbG9yPTBEMTExNykKIVtEb2NrZXJdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvRG9ja2VyLTBEMTExNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289ZG9ja2VyJmxhYmVsQ29sb3I9MEQxMTE3KQohW0FXU10oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS9BV1MtMEQxMTE3P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1hbWF6b253ZWJzZXJ2aWNlcyZsYWJlbENvbG9yPTBEMTExNykKCiMjIyMg8J+UpyBUZXN0aW5nICYgUXVhbGl0eQohW0NhcmdvIFRlc3RdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLUNhcmdvX1Rlc3QtMEQxMTE3P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1ydXN0JmxhYmVsQ29sb3I9MEQxMTE3KQohW0plc3RdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLUplc3QtMEQxMTE3P3N0eWxlPWZvci10aGUtYmFkZ2UmbG9nbz1qZXN0JmxhYmVsQ29sb3I9MEQxMTE3KQohW0dpdEh1YiBBY3Rpb25zXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1HaXRIdWIlMjBBY3Rpb25zLTBEMTExNz9zdHlsZT1mb3ItdGhlLWJhZGdlJmxvZ289Z2l0aHViYWN0aW9ucyZsYWJlbENvbG9yPTBEMTExNykKCi0tLQoKIyMjIPCflKUgT3BlbiBTb3VyY2UgRGV2ZWxvcGVyIFRvb2xzCgojIyMjIPCfpoAgW2NyZWF0ZS1uZW9uLWFwaV0oaHR0cHM6Ly9naXRodWIuY29tL3BldGVya3lsZTAxL2NyZWF0ZS1uZW9uLWFwaSkKU2NhZmZvbGQgYSBSdXN0IEFQSSBiYWNrZW5kIHdpcmVkIGludG8gdGhlICoqTmVvbiBEYXRhIEFQSSArIE5lb24gQXV0aCoqIGVjb3N5c3RlbSBpbiBzZWNvbmRzIOKAlCB0ZW1wbGF0ZSBlbWJlZGRlZCBpbiB0aGUgYmluYXJ5LCBubyBuZXR3b3JrIG5lZWRlZC4gVXNlcyAqKkF4dW0qKiwgZ2VuZXJpYyBDUlVEIHZpYSB0aGUgKipOZW9uQ2xpZW50KiosIGFuZCBKV1Qgc2Vzc2lvbnMgdmlhIE5lb24ncyBidWlsdC1pbiBhdXRoIHNlcnZpY2UuIE5vIE9STSwgbm8gY29ubmVjdGlvbiBwb29sLCBubyBEb2NrZXIuICAK4pqhICoqRGV2RXggSW1wYWN0OioqIEVsaW1pbmF0ZSBib2lsZXJwbGF0ZSBmb3IgYXV0aCwgcm91dGluZywgZXJyb3IgaGFuZGxpbmcsIGFuZCBOZW9uIGludGVncmF0aW9uIOKAlCBnbyBmcm9tIGlkZWEgdG8gZGVwbG95ZWQgQVBJIGluIG9uZSBzaXR0aW5nLiAgCvCfk6YgYGNhcmdvIGluc3RhbGwgY3JlYXRlLW5lb24tYXBpYCDCtyAqKjk3MCsgbnBtIGRvd25sb2FkcyoqIG9uIFtjcmF0ZXMuaW9dKGh0dHBzOi8vY3JhdGVzLmlvL2NyYXRlcy9jcmVhdGUtbmVvbi1hcGkpCgojIyMjIPCfmoAgW2NyZWF0ZS1ydXN0LW9uLXZlcmNlbF0oaHR0cHM6Ly9naXRodWIuY29tL3BldGVya3lsZTAxL2NyZWF0ZS1ydXN0LW9uLXZlcmNlbCkKT25lLWNvbW1hbmQgQ0xJIHRoYXQgc2NhZmZvbGRzIE5leHQuanMgKyBzZXJ2ZXJsZXNzIFJ1c3QgQVBJIHByb2plY3RzIGNvbmZpZ3VyZWQgZm9yIHplcm8tZnJpY3Rpb24gVmVyY2VsIGRlcGxveW1lbnQuICAK4pqhICoqRGV2RXggSW1wYWN0OioqIExvd2VycyB0aGUgYmFycmllciBmb3IgSlMvVFMgdGVhbXMgdG8gYWRvcHQgUnVzdCBpbmNyZW1lbnRhbGx5IHdpdGhvdXQgZGVlcCBzeXN0ZW1zIGV4cGVydGlzZS4gIAran Tyranny of the rocket equation: instead of computing rocket trajectories, create boilerplates.";
-  print("⚡ **DevEx Impact:** Lowers the barrier for JS/TS teams to adopt Rust incrementally without deep systems expertise.");
-  print("📦 `npx create-rust-on-vercel` · **451+ weekly downloads** on [npm](https://www.npmjs.com/package/create-rust-on-vercel)");
-  print();
-  print("#### 📦 [storage-supabase](https://github.com/peterkyle01/storage-supabase)");
-  print("Supabase Storage adapter for **Payload CMS 3.0+**. Lightweight — uses native `fetch` instead of the AWS SDK — with support for direct CDN redirects and image transformations.");
-  print("⚡ **DevEx Impact:** Plug-and-play media uploads for Payload CMS with zero configuration overhead.");
-  print("📦 `npm install storage-supabase` · **30 weekly downloads** on [npm](https://www.npmjs.com/package/storage-supabase)");
-  print();
-  print("#### 🎨 [trance-richtext-editor](https://github.com/peterkyle01/trance-richtext-editor)");
-  print("A plug-and-play rich text editor for React, powered by Lexical. Drop in a single component, get a production-quality editor with HTML output and a beautiful renderer — zero-config, feature flags, dark mode, and XSS-safe.");
-  print("⚡ **DevEx Impact:** Production-ready rich text editing in one import — no hunting for the right library combo or wrestling with Prosemirror/Slate configuration.");
-  print("📦 `npm install trance-richtext-editor` · [trance-editor.peterkyle01.me](https://trance-editor.peterkyle01.me)");
-  print();
-  print("---");
-  print();
-  print("### 🧠 Currently Focused On")
-  print("- Building CLI tools and SDKs that improve developer productivity")
-]]
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02aeff&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0080D1&size=35&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Peterkyle+👋;Developer+Experience+Engineer+💻;Rust+Tooling+%26+TypeScript+SDKs+🦀;Building+for+developers+🚀)](https://git.io/typing-svg)
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/peterkyle01">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=peterkyle01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=02aeff&icon_color=02aeff&text_color=c9d1d9&bg_color=0d1117" alt="peterkyle github stats" />
+  </a>
+  <a href="https://github.com/peterkyle01">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=peterkyle01&layout=compact&langs_count=7&hide_border=true&title_color=02aeff&text_color=c9d1d9&bg_color=0d1117"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:kylepeterkoine4@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.peterkyle01.me"><img src="https://img.shields.io/badge/-Portfolio-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/petermwangi01/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+
+---
+
+### 🚀 DevEx-Focused Tech Stack
+
+#### 🦀 Systems & Core Languages
+![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)
+
+#### 🛠️ Developer Tooling & SDK Design
+![CLI](https://img.shields.io/badge/-CLI_Tools-0D1117?style=for-the-badge&logo=gnubash&labelColor=0D1117)
+![Cargo](https://img.shields.io/badge/-Cargo-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)
+![Axum](https://img.shields.io/badge/-Axum-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)
+
+#### ⚙️ Web & Fullstack
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117)
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)
+![tRPC](https://img.shields.io/badge/tRPC-0D1117?style=for-the-badge&logo=trpc&labelColor=0D1117)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC&labelColor=0D1117)
+![Vercel](https://img.shields.io/badge/-Vercel-0D1117?style=for-the-badge&logo=vercel&labelColor=0D1117)
+
+#### 🗄️ Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/Postgresql-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)
+![Redis](https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&labelColor=0D1117)
+
+#### 🔧 Testing & Quality
+![Cargo Test](https://img.shields.io/badge/-Cargo_Test-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)
+![Jest](https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&labelColor=0D1117)
+
+---
+
+### 🔥 Open Source Developer Tools
+
+#### 🦀 [create-neon-api](https://github.com/peterkyle01/create-neon-api)
+Scaffold a Rust API backend wired into the **Neon Data API + Neon Auth** ecosystem in seconds — template embedded in the binary, no network needed. Uses **Axum**, generic CRUD via the **NeonClient**, and JWT sessions via Neon's built-in auth service. No ORM, no connection pool, no Docker.  
+⚡ **DevEx Impact:** Eliminate boilerplate for auth, routing, error handling, and Neon integration — go from idea to deployed API in one sitting.  
+📦 `cargo install create-neon-api` · **970+ downloads** on [crates.io](https://crates.io/crates/create-neon-api)
+
+#### 🚀 [create-rust-on-vercel](https://github.com/peterkyle01/create-rust-on-vercel)
+One-command CLI that scaffolds Next.js + serverless Rust API projects configured for zero-friction Vercel deployment.  
+⚡ **DevEx Impact:** Lowers the barrier for JS/TS teams to adopt Rust incrementally without deep systems expertise.  
+📦 `npx create-rust-on-vercel` · **451+ weekly downloads** on [npm](https://www.npmjs.com/package/create-rust-on-vercel)
+
+#### 📦 [storage-supabase](https://github.com/peterkyle01/storage-supabase)
+Supabase Storage adapter for **Payload CMS 3.0+**. Lightweight — uses native `fetch` instead of the AWS SDK — with support for direct CDN redirects and image transformations.  
+⚡ **DevEx Impact:** Plug-and-play media uploads for Payload CMS with zero configuration overhead.  
+📦 `npm install storage-supabase` · **30 weekly downloads** on [npm](https://www.npmjs.com/package/storage-supabase)
+
+#### 🎨 [trance-richtext-editor](https://github.com/peterkyle01/trance-richtext-editor)
+A plug-and-play rich text editor for React, powered by Lexical. Drop in a single component, get a production-quality editor with HTML output and a beautiful renderer — zero-config, feature flags, dark mode, and XSS-safe.  
+⚡ **DevEx Impact:** Production-ready rich text editing in one import — no hunting for the right library combo or wrestling with Prosemirror/Slate configuration.  
+📦 `npm install trance-richtext-editor` · [trance-editor.peterkyle01.me](https://trance-editor.peterkyle01.me)
+
+---
+
+### 🧠 Currently Focused On
+- Building CLI tools and SDKs that improve developer productivity
+- Bridging Rust and TypeScript ecosystems with polished DX
+- Product-minded infrastructure engineering
+- Cross-language integrations (Rust ↔ TypeScript)
+- Contributing to open source developer tooling
+
+---
+
+### 💡 About Me
+
+**Developer Experience Engineer** specializing in high-performance Rust tooling and product-minded TypeScript SDKs. I design and build CLI tools, SDKs, and infrastructure that remove friction from developer workflows — reducing setup time, simplifying integrations, and enabling teams to ship faster.
+
+My work bridges low-level systems performance with polished, product-minded interfaces that developers actually enjoy using.
+
+Based in **Nairobi, Kenya 🌍** — thriving in remote, async-first engineering teams building for global developer audiences.
+
+---
+
+<h3 align="center">Thanks for visiting! 👨‍💻🦀</h3>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=02aeff&height=120&section=footer"/>
