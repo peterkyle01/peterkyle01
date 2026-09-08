@@ -6,10 +6,10 @@
 
 <div align="center">
   <a href="https://github.com/peterkyle01">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=peterkyle01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=02aeff&icon_color=02aeff&text_color=c9d1d9&bg_color=0d1117" alt="peterkyle github stats" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=peterkyle01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=02aeff&icon_color=02aeff&text_color=c9d1d9&bg_color=0d1117" alt="peterkyle github stats" />
   </a>
   <a href="https://github.com/peterkyle01">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=peterkyle01&layout=compact&langs_count=7&hide_border=true&title_color=02aeff&text_color=c9d1d9&bg_color=0d1117"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=peterkyle01&layout=compact&langs_count=7&hide_border=true&title_color=02aeff&text_color=c9d1d9&bg_color=0d1117"/>
   </a>
 </div>
 
