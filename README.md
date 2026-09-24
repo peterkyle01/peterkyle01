@@ -76,7 +76,7 @@ Supabase Storage adapter for **Payload CMS 3.0+**. Lightweight — uses native `
 #### 🎨 [trance-richtext-editor](https://github.com/peterkyle01/trance-richtext-editor)
 A plug-and-play rich text editor for React, powered by Lexical. Drop in a single component, get a production-quality editor with HTML output and a beautiful renderer — zero-config, feature flags, dark mode, and XSS-safe.  
 ⚡ **DevEx Impact:** Production-ready rich text editing in one import — no hunting for the right library combo or wrestling with Prosemirror/Slate configuration.  
-📦 `npm install trance-richtext-editor` · [trance-editor.peterkyle01.me](https://trance-editor.peterkyle01.me)
+📦 `npm install trance-richtext-editor` · [trance-editor.peterkyle01.tech](https://trance-editor.peterkyle01.tech)
 
 ---
 
